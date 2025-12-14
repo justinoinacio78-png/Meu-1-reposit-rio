@@ -1,0 +1,5 @@
+{
+  "name": "Calculadora Financeira: Simulador de Juros Compostos",
+  "description": "Uma calculadora financeira completa para simular investimentos com juros compostos, incluindo gráficos de evolução e tabela mensal detalhada.",
+  "requestFramePermissions": []
+}
